@@ -1,0 +1,1 @@
+(1)date ,(2)average_price,(3)total_volume,(4)x4046,(5)x4225,(6)x4770,(7)total_bags,(8)small_bags,(9)large_bags,(10)xlarge_bags,(11),(12)year,(13)raphy
